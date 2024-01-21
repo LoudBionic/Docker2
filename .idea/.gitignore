@@ -33,7 +33,7 @@ out/
 ### Package Files ###
 *.jar
 *.war
-*.nar
+*.nardocker-compose up
 *.ear
 *.zip
 *.tar.gz
